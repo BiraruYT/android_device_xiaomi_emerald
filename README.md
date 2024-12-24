@@ -1,4 +1,4 @@
-# Android device tree for Android mainline (generic)
+# Android device tree for Xiaomi Redmi Note 13 Pro 4G (emerald)
 
 ```
 #
