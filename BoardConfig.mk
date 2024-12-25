@@ -116,3 +116,5 @@ DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Inherit the proprietary files
 #include vendor/xiaomi/emerald/BoardConfigVendor.mk
+
+TW_THEME := portrait_hdpi
