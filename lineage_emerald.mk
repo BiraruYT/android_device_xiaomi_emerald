@@ -15,9 +15,9 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 $(call inherit-product, device/xiaomi/emerald/device.mk)
 
 PRODUCT_DEVICE := emerald
-PRODUCT_NAME := lineage_generic
-PRODUCT_BRAND := Android
-PRODUCT_MODEL := mainline
+PRODUCT_NAME := lineage_emerald
+PRODUCT_BRAND := Xiaomi
+PRODUCT_MODEL := Redmi Note 13 Pro 4G
 PRODUCT_MANUFACTURER := xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
