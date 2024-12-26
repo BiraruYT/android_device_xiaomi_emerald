@@ -112,6 +112,9 @@ BOARD_AVB_VENDOR_BOOT_ROLLBACK_INDEX_LOCATION := 1
 # VINTF
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
+# Debug
+ENABLE_TASK_PROFILE := true
+
 # Inherit the proprietary files
 #include vendor/xiaomi/emerald/BoardConfigVendor.mk
 
