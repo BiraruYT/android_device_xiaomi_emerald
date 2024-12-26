@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_emerald.mk
+    $(LOCAL_DIR)/twrp_emerald.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_emerald-user \
-    lineage_emerald-userdebug \
-    lineage_emerald-eng
+    twrp_emerald-user \
+    twrp_emerald-userdebug \
+    twrp_emerald-eng
