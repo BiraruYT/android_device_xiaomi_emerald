@@ -1,0 +1,31 @@
+# Gatekeeper
+fbe.metadata.wrappedkey=true
+ro.hardware.gatekeeper=beanpod
+
+# Platform
+ro.display.series=Redmi Note 13 Pro 4G
+ro.mediatek.platform=MT6789
+ro.vendor.mediatek.platform=MT6789
+ro.hardware=mt6789
+
+# Virtual A/B
+ro.virtual_ab.enabled=true
+
+# Dynamic Partitons
+ro.boot.dynamic_partitions=true
+
+# Charger Suspend
+ro.charger.enable_suspend=1
+
+# TEE
+ro.mtk_tee_gp_support=1
+ro.mtk_microtrust_tee_support=1
+
+# Kmsetkey
+ro.hardware.kmsetkey=beanpod
+
+# Crypto
+ro.crypto.volume.filenames_mode=aes-256-cts:v2
+
+# FStab
+ro.postinstall.fstab.prefix=/system

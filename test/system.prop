@@ -1,0 +1,27 @@
+# Gatekeeper, Encryption
+fbe.metadata.wrappedkey=true
+vendor.gatekeeper.disable_spu=true
+
+# Platform
+ro.display.series=Redmi Note 13 Pro 4G
+ro.board.platform=mt6789
+
+# FUSE passthrough
+persist.sys.fuse.passthrough.enable=true
+
+# Virtual A/B
+ro.virtual_ab.enabled=true
+
+# Dynamic Partitions
+ro.boot.dynamic_partitions=true
+
+# Charger suspend
+ro.charger.enable_suspend=1
+
+# ADB
+ro.adb.secure=0
+
+# MediaTek
+ro.vendor.mtk_tee_gp_support=1
+ro.vendor.mtk_mitee_support=1
+ro.vendor.mtk_microtrust_tee_support=1
