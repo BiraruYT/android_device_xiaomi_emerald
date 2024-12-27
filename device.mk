@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2024 The LineageOS Project
+# Copyright (C) 2024 The Android Open Source Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -96,6 +96,3 @@ PRODUCT_COPY_FILES += \
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
-
-# Inherit the proprietary files
-#$(call inherit-product, vendor/xiaomi/emerald/generic-vendor.mk)
