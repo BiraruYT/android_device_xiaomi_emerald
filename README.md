@@ -3,7 +3,7 @@
 
   <h2>Info</h2>
 
-  <p>If you find any bugs then please report them to me, example: decryption not working. Do not report any bugs that are listed in the <a href="">Exempted Bugs</a> or the <a href="#exempted-bugs">Known Bugs</a> section.</p>
+  <p>If you find any bugs then please report them to me, example: decryption not working. Do not report any bugs that are listed in the Exempted Bugs or the Known Bugs section.</p>
 
   <h2>Exempted Bugs</h2>
 
